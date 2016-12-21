@@ -28,3 +28,10 @@ If you find bugs, want to request some new feature, or to suggest other improvem
 ](https://github.com/BazingoW/Map-Editor-2D-for-Unity/issues)
 
 
+## Donations
+
+Just in case you want to donate: http://bit.ly/2ibVDTX
+
+
+Licensed Under the [MIT License](LICENSE).
+
